@@ -1,4 +1,7 @@
 # purge
+
+video :https://streamable.com/bsluts
+Bild :https://prnt.sc/vat61s
 a simple alert script with weather change and time
 
 the weather is halloween and time is 00:00
