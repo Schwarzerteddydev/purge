@@ -1,0 +1,26 @@
+Deutsch/German
+Sound spiel zeit höher stellen main.js bei 
+
+function alert(volume){
+    snd.volume = volume;
+    snd.play();
+    setTimeout(function(){
+        snd.pause();
+        snd.currentTime = 0;
+        document.body.style.display = "none";
+    }, 22000); <------------ zeit ist 0:21 ändere es auf 80000 und es solten 2 minuten sein
+}
+
+Englisch 
+
+sound game time higher set main.js
+
+function alert (volume) {
+     snd.volume = volume;
+     snd.play ();
+     setTimeout (function () {
+         snd.pause ();
+         snd.currentTime = 0;
+         document.body.style.display = "none";
+     }, 22000); <------------ time is 0:21 change it to 80000 and it should be 2 minutes
+}
